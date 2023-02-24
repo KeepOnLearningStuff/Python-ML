@@ -14,7 +14,8 @@ Jupyter notebooks will be uploaded here for anyone that wishes to improve or try
 As for Conda "conda env create -f goodreads-rating.yml" command will create the necessary environment
 
 # Usage 
-There will be 4 different approaches to the Project uploaded to this Repositories.
-Using different ways to train the model with different predection rates.
-
-
+There will be 4 different approaches of the Project uploaded to this Repositories.
+Using different ways to train the model with different predection rates.Algorithms that were used are:
+  - Linear regression (in scikit-learn) is the most basic form, where the model is not penalized for its choice of weights, at all. That means, during the training stage, if the model feels like one particular feature is particularly important, the model may place a large weight to the feature. It can lead to overfitting.
+  - Ridge regression penalizes the model for the sum of squared value of the weights. Thus, the weights not only tend to have smaller absolute values, but also really tend to penalize the extremes of the weights, resulting in a group of weights that are more evenly distributed.
+  - Random Forest Regression algorithms are a class of Machine Learning algorithms that use the combination of multiple random decision trees each trained on a subset of data. The use of multiple trees gives stability to the algorithm and reduces variance. The random forest regression algorithm is a commonly used model due to its ability to work well for large and most kinds of data.
