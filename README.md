@@ -13,6 +13,8 @@ justification).
 Jupyter notebooks will be uploaded here for anyone that wishes to improve or try it out on their own.
 As for Conda "conda env create -f goodreads-rating.yml" command will create the necessary environment
 
+# PACKAGES HERE
+
 # Usage 
 There will be 4 different approaches of the Project uploaded to this Repositories.
 Using different ways to train the model with different predection rates.Algorithms that were used are:
