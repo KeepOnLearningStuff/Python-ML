@@ -13,8 +13,12 @@ justification).
 Jupyter notebooks will be uploaded here for anyone that wishes to improve or try it out on their own.
 As for Conda "conda env create -f goodreads-rating.yml" command will create the necessary environment
 
-# PACKAGES HERE
-
+# Packages That Were Used
+  - Numpy : It is a Python library that provides a multidimensional array object, various derived objects (such as masked arrays and matrices), and an assortment of routines for fast operations on arrays, including mathematical, logical, shape manipulation, sorting, selecting, I/O, discrete Fourier transforms, basic linear algebra, basic statistical operations, random simulation and much more.
+  - Pandas : Pandas is an open source Python package that is most widely used for data science/data analysis and machine learning tasks. It is built on top of another package named Numpy, which provides support for multi-dimensional arrays.
+  - Plotly : Plotly is an open-source data visualization library for Python and R written in JavaScript, making graphs inherently interactive. They can be modified tremendously and are easily exported as images, HTML, etc. for seamless integration into a number of applications.
+  - Sklearn : Scikit-learn is a key library for the Python programming language that is typically used in machine learning projects. Scikit-learn is focused on machine learning tools including mathematical, statistical and general purpose algorithms that form the basis for many machine learning technologies.
+  - ibmlearn : Imblearn library is specifically designed to deal with imbalanced datasets. It provides various methods like undersampling, oversampling, and SMOTE to handle and removing the imbalance from the dataset. This library consists of various ensemble methods like bagging classifiers, random forest and boosting classifiers that can be used to train models for imbalanced data sets with very efficient accuracy.
 # Usage 
 There will be 4 different approaches of the Project uploaded to this Repositories.
 Using different ways to train the model with different predection rates.Algorithms that were used are:
